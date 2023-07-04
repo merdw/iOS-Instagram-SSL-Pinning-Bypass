@@ -1,7 +1,7 @@
 # iOS-Instagram-SSL-Pinning-Bypass
  Bypass Instagram SSL pinning on iOS devices.
 
-Latest version: `v284.0`
+Latest version: `v289.1`
 
 ## Support Me
 **Bitcoin:** 1KmBPCCsGNzB1DcC34hjznmu4pg6bzjhC4  
@@ -20,6 +20,7 @@ Latest version: `v284.0`
     1.  Download IPA file from here and follow the instructions below to install the app from TrollStore
         | Application | Version | File Type |
         | ------------------ |:------:|:------:|
+        | [Instagram original bundle name](https://github.com/merdw/iOS-Instagram-SSL-Pinning-Bypass/releases/download/v289.1/Instagram_SSL_Bypassed_v289.1_merdw_original.ipa) |  289.1  | IPA |
         | [Instagram original bundle name](https://github.com/merdw/iOS-Instagram-SSL-Pinning-Bypass/releases/download/v284/Instagram_SSL_Bypassed_v284_merdw_original.ipa) |  284.0  | IPA |
         | [Instagram original bundle name](https://github.com/merdw/iOS-Instagram-SSL-Pinning-Bypass/releases/download/v278/Instagram_SSL_Bypassed_v278_merdw_original.ipa) |  278.0  | IPA |
         | [Instagram modified bundle name](https://github.com/merdw/iOS-Instagram-SSL-Pinning-Bypass/releases/download/v278/Instagram_SSL_Bypassed_v278_merdw_modified.ipa) |  278.0  | IPA |
@@ -34,6 +35,7 @@ Latest version: `v284.0`
     1.  Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Version | File Type |
         | ------------------ |:------:|:------:|
+        | [Instagram original bundle name](https://github.com/merdw/iOS-Instagram-SSL-Pinning-Bypass/releases/download/v289.1/Instagram_SSL_Bypassed_v289.1_merdw_original.ipa) |  289.1  | IPA |
         | [Instagram original bundle name](https://github.com/merdw/iOS-Instagram-SSL-Pinning-Bypass/releases/download/v284/Instagram_SSL_Bypassed_v284_merdw_original.ipa) |  284.0  | IPA |
         | [Instagram original bundle name](https://github.com/merdw/iOS-Instagram-SSL-Pinning-Bypass/releases/download/v278/Instagram_SSL_Bypassed_v278_merdw_original.ipa) |  278.0  | IPA |
         | [Instagram modified bundle name](https://github.com/merdw/iOS-Instagram-SSL-Pinning-Bypass/releases/download/v278/Instagram_SSL_Bypassed_v278_merdw_modified.ipa) |  278.0  | IPA |
