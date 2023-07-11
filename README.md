@@ -3,6 +3,10 @@
 
 Latest version: `v289.1`
 
+You need another app ssl pinning bypass ios, android anything contact me.  
+contact: telegram: @derdomerdo
+
+
 ## Support Me
 **Bitcoin:** 1KmBPCCsGNzB1DcC34hjznmu4pg6bzjhC4  
 **Ethereum(ERC20):** 0x540b4ef8ebefb82bdb76d5ba7c396f70e6c9f5aa  
