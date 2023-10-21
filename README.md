@@ -8,7 +8,7 @@ contact: telegram: @derdomerdo
 
 
 ## Support Me
-**Bitcoin:** 1KmBPCCsGNzB1DcC34hjznmu4pg6bzjhC4  
+**Bitcoin:** 1KmBPCCsGNzB1DcC34hjznmu4pg6bzjhC4   
 **Ethereum(ERC20):** 0x540b4ef8ebefb82bdb76d5ba7c396f70e6c9f5aa  
 **USDT(BEP20):** 0x540b4ef8ebefb82bdb76d5ba7c396f70e6c9f5aa  
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/merdw)
